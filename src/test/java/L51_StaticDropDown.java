@@ -19,8 +19,8 @@ public class L51_StaticDropDown {
         System.out.println(dropdown.getFirstSelectedOption().getText());
         dropdown.selectByVisibleText("USD");
         System.out.println(dropdown.getFirstSelectedOption().getText());
-        System.out.println("Shivendra Git");
-        System.out.println("Shivendra Status");
+        System.out.println("Shivendra Git -----------------");
+        System.out.println("Shivendra Status--------------------");
         System.out.println("Shivendra Hello");
         System.out.println("Shivendra Hello2");
         System.out.println("Shivendra Hello3");
