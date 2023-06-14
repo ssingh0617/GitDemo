@@ -28,4 +28,29 @@ public class L51_StaticDropDown {
 
 
     }
+
+    public void dummy(){
+        System.out.println("Branch 1");
+        System.out.println("Branch 2");
+        System.out.println("Branch 3");
+        System.out.println("Branch 4");
+        System.out.println("Branch 5");
+    }
+
+    public void dummy2() {
+        System.out.println("Branch 1");
+        System.out.println("Branch 2");
+        System.out.println("Branch 3");
+        System.out.println("Branch 4");
+        System.out.println("Branch 5");
+    }
+
+        public void dummy3() {
+            System.out.println("Branch 1");
+            System.out.println("Branch 2");
+            System.out.println("Branch 3");
+            System.out.println("Branch 4");
+            System.out.println("Branch 5");
+        }
+    
 }
