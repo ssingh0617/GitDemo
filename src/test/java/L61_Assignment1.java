@@ -16,7 +16,8 @@ public class L61_Assignment1 {
         driver.findElement(By.id("checkBoxOption1")).click();
         Assert.assertFalse(driver.findElement(By.id("checkBoxOption1")).isSelected());
         System.out.println(driver.findElement(By.id("checkBoxOption1")).isSelected());
-        //driver.findElement(By.id("checkBoxOption1")).
+        System.out.println(driver.findElement(By.id("checkBoxOption1")).isSelected());
+
 
 
     }
